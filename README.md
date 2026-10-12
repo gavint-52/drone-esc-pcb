@@ -22,7 +22,7 @@ A custom electronic speed controller (ESC) PCB designed for brushless DC motor a
 - Power and ground layout considerations
 
 ## Project Status
-In progress. Documenting the schematic, PCB layout, and validation process.
+At fabrication stage of development.  
 
 ## Images
 PCB renders and schematic screenshots will be added here.
